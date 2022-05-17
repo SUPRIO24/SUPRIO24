@@ -24,7 +24,7 @@
 - 🤝 I’m looking to collaborate with other developers and build cool projects
 - 🎯 Goals: Learning DSA as well as Web Development.
 - 📫 How to reach me **sk2462@cse.jgec.ac.in**
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I played Mobile Games a lot
 
 
 ### Connect with me :
