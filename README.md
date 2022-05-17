@@ -60,5 +60,10 @@
 </p>
 
 <p align="center">
+  <img src="./images/iron-man-snap.gif" />
+</p>
+
+<p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31udlfy3xd6gl4juqjvvnytt22ua&count=5" />
 </p>
+
