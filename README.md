@@ -8,7 +8,7 @@
   <img src="https://badges.pufler.dev/updated/SUPRIO24/SUPRIO24">
   <img src="https://badges.pufler.dev/created/SUPRIO24/SUPRIO24">
   <img src="https://badges.pufler.dev/repos/SUPRIO24">
-  <!-- <img src="https://badges.pufler.dev/commits/monthly/SUPRIO24"> -->
+  <img src="https://badges.pufler.dev/commits/monthly/SUPRIO24">
   <img src="https://komarev.com/ghpvc/?username=SUPRIO24&label=Profile%20views&color=red&style=flat"/>
 </p>
 
@@ -66,4 +66,3 @@
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31udlfy3xd6gl4juqjvvnytt22ua&count=5" />
 </p>
-
